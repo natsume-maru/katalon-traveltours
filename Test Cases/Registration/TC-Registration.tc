@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80d458cf-3150-41c0-ac40-2228b546725c</testCaseGuid>
+   <variable>
+      <defaultValue>'testemail01@domain.com'</defaultValue>
+      <description></description>
+      <id>80470067-f4b5-49e1-997c-e026761a2a1d</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+</TestCaseEntity>
